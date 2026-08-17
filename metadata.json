@@ -1,0 +1,6 @@
+{
+  "name": "HealthGuard AI",
+  "description": "AI-Powered Health Assistant & Instant Medical Guidance with Glassmorphism UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
