@@ -20,5 +20,3 @@ View your app in AI Studio: https://ai.studio/apps/586c9ba6-d4b2-48b5-8335-e826e
    `npm run dev`
 
 
-
-
